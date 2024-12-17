@@ -3,7 +3,7 @@ package pom.util;
 import org.openqa.selenium.By;
 
 public class ConstantsConfig {
-	
+	public static final String URL = "";
 	public static final String URL="https://www.tutorialspoint.com/selenium/practice/text-box.php";
 	public static final String ChromeDriverPath="C:/Users/IDC-212/Downloads/Selenium Code/ExtentReportGeneration/drivers/chromedriver.exe";
 
